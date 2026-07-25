@@ -1,5 +1,5 @@
 # 🌟 About Me:
-# Hi there, I'm Bhargavi 👋<br><br>🎓 Computer Science & Engineering student at **Parul University**  <br><br>💻 Passionate about **Frontend Development, MERN Stack, and solving Data Structures & Algorithms**  <br><br><br>🌱 Expanding expertise in **React.js, UI/UX design, and modern version control workflows**  <br>   ➝ Currently refining skills to deliver scalable applications with intuitive interfaces.  <br><br>🎯Eager to contribute to dynamic teams, learn from industry mentors, and grow into a versatile engineer.  <br>
+# I'm Bhargavi 👋<br><br>🎓 Computer Science & Engineering student at **Parul University**  <br><br>💻 Passionate about **Frontend Development, MERN Stack, and solving Data Structures & Algorithms**  <br>
 
 
 ## 🌐 Socials:
