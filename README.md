@@ -1,5 +1,5 @@
 # 🌟 About Me:
-# I'm Bhargavi 👋<br><br>🎓 Computer Science & Engineering student at **Parul University**  <br><br>💻 Passionate about **Frontend Development, MERN Stack, and solving Data Structures & Algorithms**  <br>
+# I'm Bhargavi 👋<br><br>🎓 Computer Science & Engineering student at **Parul University** <br>
 
 
 ## 🌐 Socials:
